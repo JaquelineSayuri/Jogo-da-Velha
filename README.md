@@ -1,2 +1,2 @@
-# Jogo-da-Velha
+# JogoDaVelha
 The famous tic-tac-toe game.
