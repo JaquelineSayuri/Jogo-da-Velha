@@ -17,7 +17,7 @@ def show():
     for i in range(0,5):
         print()
         for j in range(0,5):
-            print(' ' + 'grid[i][j]', end = '')
+            print(f' {grid[i][j]}', end = '')
     print()
 
 def numberOfPlayers():
